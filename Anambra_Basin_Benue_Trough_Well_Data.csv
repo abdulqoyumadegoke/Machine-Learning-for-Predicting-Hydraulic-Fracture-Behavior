@@ -1,0 +1,9 @@
+DEPTH (ft),MWD Gamma Ray (API),Young’s Modulus (Mpsi),Poisson’s Ratio (V-H),Minimum Horizontal Stress (psi),Maximum Treating Pressure (psi),Fracture Intensity at 5ft,Fracture Intensity at 50ft,Location
+5000,85,3.1,0.25,4000,7000,12.0,18.0,Anambra Basin
+5200,90,3.3,0.26,4100,7100,13.0,19.0,Anambra Basin
+5100,88,3.2,0.24,4050,7050,12.5,18.5,Benue Trough
+5050,87,3.15,0.25,4025,7025,12.3,18.3,Benue Trough
+5150,89,3.25,0.26,4075,7075,12.8,18.8,Anambra Basin
+5300,91,3.4,0.27,4150,7150,13.2,19.2,Benue Trough
+5400,86,3.45,0.26,4200,7200,13.5,19.5,Anambra Basin
+5250,92,3.35,0.25,4125,7125,12.9,18.9,Benue Trough
